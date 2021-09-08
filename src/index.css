@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://icon-library.com/images/weather-icon-gif/weather-icon-gif-24.jpg?fbclid=IwAR2Hi2c9mb6z0rYxg7HsjGpPw4WEmpQBhgdFuCJp4LVbYrNMw3ztWofnbU8) !important;
+  background-position: center !important;
 }
 
 code {
